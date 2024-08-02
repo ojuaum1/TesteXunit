@@ -23,7 +23,7 @@ IDE (Visual Studio, Visual Studio Code, Rider, etc.)
 ### Clone o repositório:
 ### bash
 ### Copiar código
-### git clone https://github.com/seuusuario/calculations-tests.git
+### [git clone https://github.com/seuusuario/calculations-tests.git](https://github.com/ojuaum1/TesteXunit.git)
 Navegue até o diretório do projeto:
 bash
 Copiar código
